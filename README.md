@@ -1,3 +1,3 @@
-```ipynb
+```bash
 display (game_box)
 ```
