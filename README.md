@@ -1,3 +1,3 @@
-```bash
+```py
 display (game_box)
 ```
